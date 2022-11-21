@@ -1,0 +1,168 @@
+{
+  "conveniencia": [
+    {
+      "id": 1,
+      "produto": "refrigerante",
+      "tamanhos": [
+        {
+          "tamanho": "p",
+          "preco": "R$7,00"
+        },
+        {
+          "tamanho": "m",
+          "preco": "R$11,00"
+        },
+        {
+          "tamanho": "g",
+          "preco": "R$14,00"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "produto": "suco",
+      "tamanhos": [
+        {
+          "tamanho": "p",
+          "preco": "R$6,00"
+        },
+        {
+          "tamanho": "m",
+          "preco": "R$10,00"
+        },
+        {
+          "tamanho": "g",
+          "preco": "R$13,00"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "produto": "pipoca",
+      "tamanhos": [
+        {
+          "tamanho": "p",
+          "preco": "R$8,00"
+        },
+        {
+          "tamanho": "m",
+          "preco": "R$12,00"
+        },
+        {
+          "tamanho": "g",
+          "preco": "R$16,00"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "produto": "hamburger",
+      "preco": "R$23,00"
+    },
+    {
+      "id": 5,
+      "produto": "cachorro quente",
+      "preco": "R$20,00"
+    },
+    {
+      "id": 6,
+      "produto": "barra de chocolate",
+      "preco": "R$8,00"
+    }
+  ],
+  "banheiros": [
+    {
+      "id": 1,
+      "masculino": true,
+      "sanitarios": 10,
+      "pias": 5
+    },
+    {
+      "id": 2,
+      "masculino": true,
+      "sanitarios": 10,
+      "pias": 5
+    },
+    {
+      "id": 3,
+      "feminino": true,
+      "sanitarios": 10,
+      "pias": 5
+    },
+    {
+      "id": 4,
+      "feminino": true,
+      "sanitarios": 10,
+      "pias": 5
+    }
+  ],
+  "salas": [
+    {
+      "id": 1,
+      "assentos": 300,
+      "fileiras": 10,
+      "ingresso": "R$25,00"
+    },
+    {
+      "id": 2,
+      "assentos": 250,
+      "fileiras": 10,
+      "ingresso": "R$20,00"
+    },
+    {
+      "id": 3,
+      "assentos": 220,
+      "fileiras": 11,
+      "ingresso": "R$15,00"
+    },
+    {
+      "id": 4,
+      "assentos": 200,
+      "fileiras": 10,
+      "ingresso": "R$10,00"
+    },
+    {
+      "id": 5,
+      "assentos": 350,
+      "fileiras": 14,
+      "ingresso": "R$30,00"
+    }
+  ],
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Carros",
+      "ano": 2006,
+      "duracao": "1h 36m",
+      "genero": "animação"
+    },
+    {
+      "id": 2,
+      "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+      "ano": 2001,
+      "duracao": "2h 58m",
+      "genero": "fantasia"
+    },
+    {
+      "id": 3,
+      "titulo": "Toy Story",
+      "ano": 1995,
+      "duracao": "1h 17m",
+      "genero": "animação"
+    },
+    {
+      "id": 4,
+      "titulo": "De Volta Para o Futuro",
+      "ano": 1985,
+      "duracao": "1h 56m",
+      "genero": "ficção científica"
+    },
+    {
+      "id": 5,
+      "titulo": "Star Wars: Uma Nova Esperança",
+      "ano": 1978,
+      "duracao": "2h 01m",
+      "genero": "ficção científica"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "projeto-individual-modulo3",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Matheus Keher",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
